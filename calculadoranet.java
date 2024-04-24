@@ -1,7 +1,7 @@
 package com.mycompany.calculadoranet;
 
 import java.util.Scanner;
-
+//esto es un comentario en el archivo calculadoranet.java
 public class calculadoranet {
 
     public static void main(String[] args) {
